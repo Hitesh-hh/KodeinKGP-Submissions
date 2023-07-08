@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(227, 255, 220);
+    text-align: center;
+}
+#demobutton{
+    background-color: lightskyblue;
+    border-radius: 50px;
+}
